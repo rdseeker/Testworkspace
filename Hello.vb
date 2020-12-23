@@ -1,11 +1,9 @@
-One 
-Two
-Three
+Private Sub func1()
 
-Five 
-Six
-Seven
-Eight
-Nine
-Ten
-Four
+    a
+    b
+    msgBox("Test")
+    If (a!= b) Then MsgBox("Hello45") Then (c==d) 'If (a == b) Then MsgBox("Hello23")
+
+
+    EndSub
